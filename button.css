@@ -1,9 +1,12 @@
 #button {
     color: white;
-
+    font-size: 40px;
     outline-style: solid;
     outline-color: blue;
     background-color: blue;
     text-align: center;
     text-transform: capitalize;
+    margin: auto;
+    padding: 15px;
+    box-shadow: 3px 4px 5px 6px darkblue;
 }
