@@ -1,0 +1,9 @@
+#button {
+    color: white;
+
+    outline-style: solid;
+    outline-color: blue;
+    background-color: blue;
+    text-align: center;
+    text-transform: capitalize;
+}
