@@ -2,20 +2,16 @@
     list-style-type: none;
     margin: 0;
     padding: 0;
-    background-color: #333333;
-    text-align: center;
-}
-
-.nav li {
-    display: inline;
+    width: 200px
 }
 
 .nav a {
-    display: inline-block;
+    display: block;
     padding: 10px;
     color: white;
     text-align: center;
     padding: 14px 16px;
+    background-color: #333333;
 }
 
 .nav a:hover {
