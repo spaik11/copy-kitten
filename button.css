@@ -1,12 +1,17 @@
 #button {
     color: white;
     font-size: 40px;
-    outline-style: solid;
-    outline-color: blue;
+    border: 2px solid blue;
+    border-radius: 5px;
     background-color: blue;
     text-align: center;
     text-transform: capitalize;
     margin: auto;
     padding: 15px;
-    box-shadow: 3px 4px 5px 6px darkblue;
+    box-shadow: 12px 12px 6px darkblue;
+}
+
+#button.hover {
+    background-color: lightblue;
+    box-shadow: 0px;
 }
