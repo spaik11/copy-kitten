@@ -1,0 +1,18 @@
+div #one {
+    border-right-style: solid;
+    border-bottom-style: solid;
+    padding: 5px;
+}
+
+div #two {
+    border-left-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    padding: 5px;
+}
+
+div #three {
+    border-left-style: solid;
+    border-bottom-style: solid;
+    padding: 5px;
+}
